@@ -1,4 +1,4 @@
-# STAR-XD-MINI-BOT
+# PEAKY BLINDER MINIBOT
 
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/XdKing2/star-mini)
