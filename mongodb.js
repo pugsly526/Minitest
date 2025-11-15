@@ -2,7 +2,7 @@
 const { MongoClient } = require('mongodb');
 
 const url = 'mongodb+srv://sanglee9146118_db_user:pCLKfSkwOmeLMfQx@cluster0.l2wzjif.mongodb.net/';
-const client = new MongoClient(uri, { maxPoolSize: 10 });
+const client = new MongoClient(url, { maxPoolSize: 10 });
 
 const defaults = {
   AUTO_REACT: "off",
