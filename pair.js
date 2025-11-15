@@ -87,7 +87,7 @@ const config = {
 const { MongoClient } = require('mongodb');
 const { v4: uuidv4 } = require('uuid');
 
-const mongoUrl = '';// add ur own mongodb url
+const mongoUrl = 'mongodb+srv://sanglee9146118_db_user:sanglee9146118@cluster0.l2wzjif.mongodb.net';// add ur own mongodb url
 const client = new MongoClient(mongoUrl);
 let db;
 
